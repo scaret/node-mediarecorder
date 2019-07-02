@@ -1,0 +1,15 @@
+{
+  "name": "@scaret/mediarecorder",
+  "version": "0.0.1",
+  "description": "Media Recorder for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rimraf": "^2.6.3",
+    "wolfy87-eventemitter": "^5.2.6"
+  }
+}
